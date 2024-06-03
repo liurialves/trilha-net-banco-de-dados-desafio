@@ -1,3 +1,11 @@
+
+# Docker não abriu no MacOS segue as possiveis alterações...
+
+
+
+
+
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
